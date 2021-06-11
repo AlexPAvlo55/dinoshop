@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rotonda'; /* Гарнитура шрифта */
+    src: url(fonts/rotonda-regular.otf); /* Путь к файлу со шрифтом */
+   }
+@font-face {
+    font-family: 'RotondaBold'; /* Гарнитура шрифта */
+    src: url(fonts/rotonda-bold.ttf); /* Путь к файлу со шрифтом */
+   }
